@@ -8,7 +8,7 @@
             <div class="w-10 h-10 bg-gradient-to-br from-pink-400 to-purple-500 rounded-2xl flex items-center justify-center mr-3 animate-float shadow-lg">
               <span class="text-xl">⭐</span>
             </div>
-            <span class="font-bold text-xl bg-gradient-to-r from-pink-500 to-purple-600 bg-clip-text text-transparent">星星积分乐园</span>
+            <span class="font-bold text-xl bg-gradient-to-r from-pink-500 to-purple-600 bg-clip-text text-transparent">星星积分乐园 v1.0</span>
           </div>
           <div class="hidden md:flex items-center space-x-1">
             <router-link to="/" class="nav-btn px-3 py-2 rounded-xl text-sm font-bold text-gray-600 hover:text-pink-600 hover:bg-pink-50 transition-colors">
