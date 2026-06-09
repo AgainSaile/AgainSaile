@@ -22,3 +22,14 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Project extras
+backend/
+frontend/
+public/
+seed-data.sql
+task-summary*
+*.html
+!index.html
+框架.txt
+设计说明文档.md
